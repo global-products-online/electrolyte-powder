@@ -1,4 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Terms and Conditions</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+<body>
+    
 <h2 style="text-align: center;"><b>TERMS AND CONDITIONS</b></h2>
 <p>Last updated: 2022-07-05</p>
 <p>1. <b>Introduction</b></p>
@@ -89,3 +98,6 @@
 <p>23. <b>Contact Us</b></p>
 <p>Please send your feedback, comments, requests for technical support by email: <b>orders@drberg.com</b>.</p>
 <p style="margin-top: 5em; font-size: 0.7em;">These <a href="https://policymaker.io/terms-and-conditions/">Terms of Service</a> were created for <b>https://global-products-online.github.io/electrolyte-powder/</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-07-05.</p>
+
+</body>
+</html>
